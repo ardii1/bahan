@@ -1,0 +1,2 @@
+# bahan
+ini bahan mahal
